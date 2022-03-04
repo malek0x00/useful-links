@@ -23,7 +23,7 @@
 - [Rive:](https://rive.app/) create animations to use in your [website or app](https://help.rive.app/runtimes/quick-start)
 - [fable:](https://www.fable.app/) create SVG animations, [convert them to lottie animations](https://lottiefiles.com/svg-to-lottie) and import them into your [project](https://airbnb.io/lottie/)
 - [lottiefiles:](https://lottiefiles.com/featured) a collection of lottie animations
-- [lottielab.io:](https://lottielab.io/) create lottie animations with adobe After-Effect
+- [lottielab.io:](https://lottielab.io/) create lottie animations without adobe After-Effect
 
 ### Stock resources
 - [Pexels:](https://www.pexels.com/) stock photos
