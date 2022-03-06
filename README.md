@@ -2,6 +2,9 @@
 ### Illustrations & icons
 - [pixelTrue:](https://www.pixeltrue.com/free-illustrations) svg & png illustrations
 - [undraw:](https://undraw.co/illustrations) svg & png illustrations
+- [delesign:](https://delesign.com/free-designs/graphics/illustration) svg & png illustrations
+- [craftwork.design:](https://craftwork.design/downloads/category/freebies/) free illustrations collections
+- [sketch valley:](https://sketchvalley.com/) Hand-drawn free vector illustration
 - [404-illustrations](https://www.kapwing.com/404-illustrations)
 - [open peeps:](https://openpeeps.com/) hand-drawn illustrations library
 - [Ira Design:](https://iradesign.io/) customizable illustrations
@@ -23,7 +26,13 @@
 - [Rive:](https://rive.app/) create animations to use in your [website or app](https://help.rive.app/runtimes/quick-start)
 - [fable:](https://www.fable.app/) create SVG animations, [convert them to lottie animations](https://lottiefiles.com/svg-to-lottie) and import them into your [project](https://airbnb.io/lottie/)
 - [lottiefiles:](https://lottiefiles.com/featured) a collection of lottie animations
+- [iconscout:](https://iconscout.com/free-lotties) a collection of lottie animations
+- [lordicon:](https://lordicon.com/) a collection of animated icons
+- [icons8:](https://icons8.com/animated-icons) a collection of animated icons
+- [user animations:](https://useanimations.com/) a collection of animated icons
+- [Potlab Icons:](https://www.potlabicons.com/) a collection of animated icons
 - [lottielab.io:](https://lottielab.io/) create lottie animations without adobe After-Effect
+
 
 ### Stock resources
 - [Pexels:](https://www.pexels.com/) stock photos
@@ -35,6 +44,8 @@
  ### Fonts
 - [fontsHub:](https://fontshub.pro/) collection of fonts
 - [fontjoy:](https://fontjoy.com/) Generate font combinations
+- [fonts in the wild](https://www.fontsinthewild.com/)
+- [fontpair.co](https://www.fontpair.co/)
 
 ### Colors
 - [canva color wheel:](https://www.canva.com/colors/color-wheel/) generate color combinations
